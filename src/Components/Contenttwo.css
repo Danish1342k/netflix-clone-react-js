@@ -1,0 +1,14 @@
+.contentTwo {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    color: #fff;
+    /* margin-top: 150px; */
+    background-color: black;
+    border-top: 6px solid #232323;
+    /* border-bottom: 6px solid #232323; */
+}
+
+.contentTwo img {
+    width: 40%;
+}

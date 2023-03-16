@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.footerMain {
+    background-color: black;
+    border-top: 6px solid #232323;
+}
+
+.footerSide {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+}
+
+.headone h5 {
+    color: #fff;
+    width: 83%;
+    margin: 40px 110px 15px auto;
+    font-size: 12px;
+
+}
+
+.footerSide .paragraph {
+    cursor: pointer;
+    font-size: 12px;
+    line-height: 2;
+}
+
+form.bottomSide {
+    color: #fff;
+    width: 82%;
+    margin: 25px auto;
+    font-size: 12px;
+
+}
+
+form.bottomSide h6 {
+    font-size: 12px;
+    margin-top: 15px;
+
+}
+
+.bottomSide select {
+    padding-right: 2.25rem;
+    font-size: 1rem;
+    font-weight: 400;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background: transparent;
+    cursor: pointer;
+    width: 10%;
+}
